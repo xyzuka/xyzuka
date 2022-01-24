@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @xyzuka
+- 👋 Hi, I’m Brandon!
 - 👀 I’m interested in learning the basis of coding! 
-- 🌱 I’m currently learning fundamentals of web development
-- 💞️ I’m looking to collaborate on interesting projects tailored to beginners
+- 🌱 I’m currently learning fundamentals of web development and aspire to become a web developer!
 - 📫 How to reach me yeebrandon@outlook.com
 
 <!---
