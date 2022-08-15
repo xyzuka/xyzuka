@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon!
-- 👀 I’m interested in learning the fundamentals of coding and enjoy programming in my spare time :) 
+- 👀 I’m interested in learning the fundamentals of web development and enjoy coding in my spare time :) 
 
 <!---
 xyzuka/xyzuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
